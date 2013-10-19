@@ -82,9 +82,6 @@
 - fields: {first_name: John, last_name: Starr}
   model: address_book.patient
   pk: 28
-- fields: {first_name: John, last_name: Richards}
-  model: address_book.patient
-  pk: 29
 - fields: {first_name: Keith, last_name: Starr}
   model: address_book.patient
   pk: 30
@@ -568,9 +565,6 @@
 - fields: {email: John.Starr@yahoo.com, patient: 28}
   model: address_book.email
   pk: 34
-- fields: {email: John.Richards@gmail.com, patient: 29}
-  model: address_book.email
-  pk: 35
 - fields: {email: Nancy.Wyman@gmail.com, patient: 31}
   model: address_book.email
   pk: 36
